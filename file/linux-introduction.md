@@ -7,7 +7,7 @@
 Linux内核版本一般格式为：`x.y.zz-www `，例如：Kernel2.6.15
 
 - x.y：Linux内核主版本号，y若为奇数则表示是测试版
-- zz：次版本好
+- zz：次版本号
 - www：代表发行号
 
 # 2. Linux体系结构
